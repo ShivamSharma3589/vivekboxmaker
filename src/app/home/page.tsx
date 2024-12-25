@@ -1,11 +1,11 @@
-import React from 'react';
+import React from "react";
 
-import SectionCategories from './SectionCategories';
-import SectionHeader from './SectionHeader';
-import SectionMidBanner from './SectionMidBanner';
+import SectionCategories from "./SectionCategories";
+import SectionHeader from "./SectionHeader";
+import SectionMidBanner from "./SectionMidBanner";
 // import SectionProducts from './SectionProducts';
 // import SectionSlider from './SectionSlider';
-import SectionStyle from './SectionStyle';
+import SectionStyle from "./SectionStyle";
 
 const page = () => {
   return (
