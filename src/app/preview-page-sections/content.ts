@@ -15,9 +15,9 @@ import preview from '@/images/preview.jpg';
 // import singleProduct from '@/images/preview/singleProduct.jpg';
 
 export const templateDetails = {
-  name: 'LuxLoom Ecommerce NextJS, HTML and TailwindCSS Template',
+  name: 'Vivek Box Makers',
   description:
-    'Presenting LuxLoom Ecommerce Template, the ultimate ecommerce template in NextJS, HTML and TailwindCSS Template.',
+    'We create quality sweet boxes for all the occassions.',
   screenshotsOne: [preview, preview, preview, preview, preview, preview],
   screenshotsTwo: [preview, preview, preview, preview, preview, preview],
 };

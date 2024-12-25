@@ -14,7 +14,7 @@ const Logo: FC<LogoProps> = ({ className = '' }) => {
       href="/"
     >
       <MdOutlineFilterVintage className="text-4xl" />
-      <span className={`${className} text-2xl font-bold`}>LuxLoom</span>
+      <span className={`${className} text-2xl font-bold`}>VivekBoxMaker</span>
     </Link>
   );
 };

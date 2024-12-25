@@ -133,7 +133,7 @@ export const NavLinks: NavItemType[] = [
 
 export const headerSection = {
   title: 'TRENDY FASHION ZONE',
-  heading: 'We Always Build Stunning Fashion Experiences',
+  heading: 'We create sweet boxes for all the occassions.',
 };
 
 export const newItemsData = [
